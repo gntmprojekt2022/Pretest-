@@ -1,0 +1,90 @@
+from,to,year,relationship,sector,tv
+lg,GNTM,2006,candidate,modeling ,Pro7
+lg,IMG,2006,contract,modeling ,Puls 4
+lg,IMG,2007,contract,modeling ,Puls 4
+lg,ANTM,2009,contract,host,Puls 4
+lg,ANTM,2010,contract,host,Puls 4
+lg,ANTM,2011,contract,host,Puls 4
+lg,ANTM,2012,contract,host,Puls 4
+lg,Cosmopolitan,2006,contract,modeling ,
+lg,FashionWeek,2009,contract,modeling ,
+lg,IMG,2008,contract,modeling ,
+lg,IMG,2009,contract,modeling ,
+lg,IMG,2010,contract,modeling ,
+lg,red,2013,contract,host,Pro7
+lg,Das Supertalent,2013,contract,jury,RTL
+lg,Das Supertalent,2014,contract,jury,RTL
+lg,Prankenstein,2015,contract,host,Pro7
+lg,The Voice of Germany,2015,contract,host,Pro7
+lg,Deutschland tanzt,2015,contract,host,Pro7
+lg,Schlag den Star,2017,candidate,entertainment,Pro7
+lg,Die Schluempfe das verlorene Dorf,2017,contract,voice acting,
+lg,Das Ding des Jahres,2018,contract,jury,Pro7
+lg,LeGer by Lena Gercke,2019,founder,fashion,
+lg,LeGer by Lena Gercke,2020,founder,fashion,
+lg,LeGer by Lena Gercke,2021,founder,fashion,
+lg,LeGer by Lena Gercke,2022,founder,fashion,
+lg,red,2014,contract,host,Pro7
+lg,Das Supertalent,2014,contract,jury,RTL
+lg,Prankenstein,2016,contract,host,Pro7
+lg,Forbes,2020,cover,modeling ,
+lg,The Voice of Germany,2016,contract,host,Pro7
+lg,The Voice of Germany,2017,contract,host,Pro7
+lg,The Voice of Germany,2018,contract,host,Pro7
+lg,The Voice of Germany,2019,contract,host,Pro7
+lg,The Voice of Germany,2020,contract,host,Pro7
+lg,The Voice of Germany,2021,contract,host,Pro7
+lg,Das Ding des Jahres,2019,contract,jury,Pro7
+lg,Das Ding des Jahres,2020,contract,jury,Pro7
+lg,About You Award,2017,contract,host,Pro7
+lg,About You Award,2018,contract,host,Pro7
+lg,The Voice Senior,2018,contract,host,Sat1
+lg,The Voice Senior,2019,contract,host,Sat1
+lg,Musikvideo Bengio,2018,guest role,acting,
+lg,Katjes,2008,ambassador,modeling ,
+lg,Windows Live,2006,contract,modeling ,
+lg,Oui Set,2006,contract,modeling ,
+jw,GNTM,2006,candidate,modeling ,Pro7
+jw,IMG,2006,contract,modeling ,
+jw,IMG,2007,contract,modeling ,
+jw,IMG,2008,contract,modeling ,
+jw,Abitur,2009,school,studying ,
+jw,Musikmanagement,2009,university,studying ,
+jw,Musikmanagement,2010,university,studying ,
+jw,Musikmanagement,2011,university,studying ,
+jw,Musikmanagement,2012,university,studying ,
+jw,Online Musik Magazin,2012,founder,journalism ,
+jw,Online Musik Magazin,2013,founder,journalism ,
+jw,Online Musik Magazin,2014,founder,journalism ,
+jw,Online Musik Magazin,2015,founder,journalism ,
+jw,Online Musik Magazin,2016,founder,journalism ,
+jw,Online Musik Magazin,2017,founder,journalism ,
+jw,Online Musik Magazin,2018,founder,journalism ,
+jw,Online Musik Magazin,2019,founder,journalism ,
+jw,Online Musik Magazin,2020,founder,journalism ,
+jw,Online Musik Magazin,2021,founder,journalism ,
+jw,Germanistik,2022,university,studying ,
+jw,Freiberufliche Journalistin,2022,job,journalism ,
+ys,GNTM,2006,candidate,modeling ,Pro7
+ys,OneEins fab,2006,contract,modeling ,
+ys,OneEins fab,2007,contract,modeling ,
+ys,OneEins fab,2008,contract,modeling ,
+ys,OneEins fab,2009,contract,modeling ,
+ys,OneEins fab,2010,contract,modeling ,
+ys,OneEins fab,2011,contract,modeling ,
+ys,OneEins fab,2012,contract,modeling ,
+ys,OneEins fab,2013,contract,modeling ,
+ys,OneEins fab,2014,contract,modeling ,
+ys,OneEins fab,2015,contract,modeling ,
+ys,OneEins fab,2016,contract,modeling ,
+ys,OneEins fab,2017,contract,modeling ,
+ys,OneEins fab,2018,contract,modeling ,
+ys,maxdome,2006,ambassador,modeling ,
+ys,Stars auf Eis,2007,candidate,entertainment,Pro7
+ys,Maennerherzen,2009,guest role,acting,
+ys,Model WG,2010,candidate,entertainment,Pro7
+ys,Model WG,2011,candidate,entertainment,Pro7
+ys,Verbotene Liebe,2013,guest role,acting,ARD
+ys,private,2014,,,
+ys,private,2015,,,
+ys,private,2016,,,
