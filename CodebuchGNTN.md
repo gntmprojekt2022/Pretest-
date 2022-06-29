@@ -48,6 +48,7 @@
     ambassador = Botschafterin oder Gesicht einer Marke
     job = Berufe ohne Öffentlichkeitsauftritt
     influencer = Influencer, ab 50 Tausend Abonnenten
+    love = romatische Beziehung
     
     **sector**
     tv show = Shows, die im Fernsehen ausgestrahlt werden (Reality-TV-, Quiz-, Talent-, Castingshows, TV Serien)
