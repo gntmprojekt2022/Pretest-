@@ -91,6 +91,7 @@
     brand = eigene Marke der Kandidatin
     streaming = Plattformen, auf denen Straming erfolgt (z.B. Netflix, Prime Video, maxdome)
     job = Berufe ohne Öffentlichkeitsauftritt
+    soccer player = Fußballspieler, der in Beziehung mit Kandidatin steht
     
 
     **birth year**    
