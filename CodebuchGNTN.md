@@ -63,10 +63,10 @@
     
     **channel**
     Alle Sender auf denen die jeweiligen Shows/Serien liefen und mit denen die Kandidatinnen womöglich assoziiert werden.
-    - Pro 7
-    - Puls 4 (Österreich)
+    - Pro7
+    - Puls4 (Österreich)
     - RTL
-    - SAT 1
+    - SAT1
     - ARD
   
 
