@@ -40,7 +40,7 @@
     **relationship**  
     candidate = Teilnehmenrin oder Kandidatin einer TV Show (Reality-TV-, Quiz-, Talent-, Castingshows)
     contract = Vertragsbeziehung der (ehem.) Kandidatin und dem Knoten (z.B. Verträge zwischen Model und Agentur)
-    host = Moderation einer TV Show (Reality-TV-, Quiz-, Talent-, Castingshows) 
+    host = Moderation einer Show (Reality-TV-, Quiz-, Talent-, Castingshows, Podcasts) 
     jury = Juror einer Casting-/Wettbewerb Show 
     voice actor = Synchronsprecherin in Filmen oder ähnlichem
     actor = Schauspielerin/Gast- oder Nebenrolle in Filmen oder Serien
@@ -49,6 +49,7 @@
     job = Berufe ohne Öffentlichkeitsauftritt
     influencer = Influencer, ab 50 Tausend Abonnenten
     love = romatische Beziehung
+    model = Kandidatin wurde von Kund*in für einen Job innerhalb der Modebranche gebucht
     
     **sector**
     tv show = Shows, die im Fernsehen ausgestrahlt werden (Reality-TV-, Quiz-, Talent-, Castingshows, TV Serien)
@@ -60,6 +61,8 @@
     advertisement = Werbekampagnen
     journalism = journalistische Beschäftigungen
     social media = Soziale-Netzwerke
+    health = Gesundheitsbereich (mental und körperlich)
+    audio = Audiobereiche (Radio, Podcast, etc.) 
     
     **channel**
     Alle Sender auf denen die jeweiligen Shows/Serien liefen und mit denen die Kandidatinnen womöglich assoziiert werden.
@@ -89,9 +92,13 @@
     event = Event/Veranstaltung
     movie = Film
     brand = eigene Marke der Kandidatin
+    cooperation = bereits bestehende Marke, mit der Kandidatin zusammenarbeitet oder wofür geworben wird
     streaming = Plattformen, auf denen Straming erfolgt (z.B. Netflix, Prime Video, maxdome)
     job = Berufe ohne Öffentlichkeitsauftritt
     soccer player = Fußballspieler, der in Beziehung mit Kandidatin steht
+    rapper = Rapper
+    fashion show = Modeschau (z.B. Fashion Week New York, Milan, Paris, etc.)
+    
     
 
     **birth year**    
